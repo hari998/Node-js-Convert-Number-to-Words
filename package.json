@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-convert-numbers-to-word",
+  "version": "1.0.0",
+  "description": "A Javascript - Nodejs program for converting number to words",
+  "main": "index.js",
+  "scripts": {
+    "start": "node numToWords.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hari998/Nodejs-Convert-Numbers-to-Word.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "number",
+    "to",
+    "words"
+  ],
+  "author": "hariom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hari998/Nodejs-Convert-Numbers-to-Word/issues"
+  },
+  "homepage": "https://github.com/hari998/Nodejs-Convert-Numbers-to-Word#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
